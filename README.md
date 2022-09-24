@@ -31,3 +31,30 @@ I (Intersex) - intersex refers to people born with both female and male characte
 A (Asexual) - people that identify as asexual are people who feel no sexual attraction towards anyone.
 
 All LGBTQIA+ members prefer to go by specific pronouns. A couple examples would be she/her, he/him and they/them. One could also use  any pronouns, or a combination of both like she/they, he/they, and many more. 
+
+
+# Sep 24, 2022 Progress Commit
+SUMMARY OF PROGRESS: We have created a rough draft of the code that we will be using as reference in creating the website itself. Below you will see the draft of the code for the homepage.
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>All About the LGBTQIA+ Community</title>
+  <style>
+    h1 {
+      background-color: lightyellow;
+      color: black;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>All About the LGBTQIA+ Community</h1>
+  <hr>
+  <p>This website discusses the LGBTQIA+ community, its definitions, social issues, and types. Our goal is for everyone to be aware and accepting of all genders and sexualities. We should all be welcoming to all people and not act against them just because of their gender or sexuality. We need to learn that we are not defined by whom we love or whom we are attracted to and that it is not “abnormal” to not like people of the opposite gender.      </p>
+  <hr>
+  <a href="https://q1proj-page1.althea-vizannev.repl.co">History</a>
+  <a href="https://q1proj-page2.althea-vizannev.repl.co">The Acronym</a>
+  </div>
+</body>
+</html>
