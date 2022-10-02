@@ -58,3 +58,66 @@ SUMMARY OF PROGRESS: We have created a rough draft of the code that we will be u
   </div>
 </body>
 </html>
+
+
+# Oct 2, 2022 Progress Commit
+SUMMARY OF PROGRESS: We have successfully made the box models and the main layout of the code, and it now looks a lot like the wireframe. It still needs a few more changes (spacing between the boxes, font, etc.) but overall, I believe we made quite a lot of progress. Below is the style.css of our code.
+
+img {
+  float: left; 
+  margin: 5px;
+  padding: 5px;
+}
+
+.title {
+  display: inline-block;
+  background-color: #f96d8b;
+  height: 300%;
+  width: 50%;
+  font-size: 130%;
+  text-align: center;
+  margin: 10px; 
+  padding: 10px;
+}
+
+.links {
+  float: left;
+  clear: left;
+  width: 180px;
+  height: 40px;
+  font-size: 100%;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+    
+.link1 {
+  background-color: #cb6ce6;
+}
+
+.link2 {
+  background-color: #04b8d3;
+}
+
+.link3 {
+  background-color: #ef3a5d;
+}
+
+.link4 {
+  background-color: #7ed957;
+}
+
+.links:hover {
+  color: white;
+  background-color: pink;
+}
+      
+.desc {
+  display: inline-block;
+  background-color: #1e88e5;
+  width: 50%;
+  height: 100%;
+  margin: 10px;
+  padding: 10px;
+  text-align: justify;
+}
