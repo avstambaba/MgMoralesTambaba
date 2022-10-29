@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+  <title>The Acronym</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="icon" href="images\icon.png" type="image/png">
+</head>
+  
+<body>
+  <div id="title">
+    <h1>LGBTQIA: The Acronym</h1>
+  </div>
+
+  <div id="row1">
+    <p id="l">
+      <b> L (Lesbian) </b> <br> lesbians are women that are <br> attracted to other women.
+    </p>
+    <p id="g">
+      <b> G (Gay) </b> <br> the term usually refers to homosexual <br> men. But it can also be used for people <br> who just feel romantic attraction towards <br> people of the same gender.
+    </p>
+    <p id="b">
+    <b> B (Bisexual) </b> <br> they are people who are attracted to <br> both genders (women and men).
+    </p>
+  </div>
+
+  <div id="row2">
+    <p id="t">
+      <b> T (Transgender) </b> <br> transgender people are people that <br> identify as the opposite of their <br> biological sex. 
+    </p>
+    <p id="q">
+      <b> Q (Queer) </b> <br> the word queer is an umbrella term <br> used for people who identify as anything but heterosexual. 
+    </p>
+    <p id="i">
+      <b> I (Intersex) </b> <br> intersex refers to people born with both <br> female and male characteristics. 
+    </p>
+  </div>
+
+  <div id="row3">
+    <p id="a">
+      <b> A (Asexual) </b> <br> people that identify as asexual are <br> people who feel no sexual attraction <br> towards anyone.
+    </p>
+    <p id="pronouns">
+      All LGBTQIA+ members prefer to go by specific pronouns. A couple examples <br> would be she/her, he/him and they/them. One could also use  any pronouns, or a <br> combination of both like she/they, he/they, and many more. 
+    </p>
+  </div>
+</body>
+</html>
