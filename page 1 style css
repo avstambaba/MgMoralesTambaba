@@ -1,0 +1,90 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #04b8d3;
+}
+
+*{box-sizing: border-box}
+
+#top {
+  width: 80%;
+  height: 40%;
+  margin: auto;
+}
+
+#top img {
+  float: left; 
+  width: 20%;
+  height: 20%;
+  margin: 10px;
+  position: relative;
+}
+
+#title {
+  float: left;
+  background-color: #ffcdda;
+  width: 70%;
+  height: 82%;
+  font-size: 4.5vh;
+  text-align: center;
+  margin-left: 10px; 
+  margin-top: 15px;
+  position: relative;
+  overflow: hidden;
+}
+
+#bottom {
+  width: 80%;
+  height: 50%;
+  margin: auto;
+}
+
+#desc {
+  float: left;
+  background-color: #f96d8b;
+  width: 60%;
+  height: 110%;
+  margin-left: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  font-size: 4vh;
+  text-align: justify;
+  overflow: hidden;
+}
+
+#trivias {
+  float: left;
+  width: 30%;
+  margin-left: 20px;
+  text-align: center;
+}
+
+#trivia1 {
+  clear: left;
+  width: 100%;
+  height: 30%;
+  overflow: hidden;
+  border-bottom: 20px solid #04b8d3;
+  background-color: #fbe759;
+  font-size: 140%;
+}
+
+#trivia2 {
+  clear: left;
+  width: 100%;
+  height: 80%;
+  overflow: hidden;
+  background-color: #fbe759;
+  font-size: 140%;
+}
+
+#homepage {
+  clear: left;
+  overflow: hidden;
+  width: 100%;
+  height: 20%;
+  background-color: #ffcdda;
+  border-top: 20px solid #04b8d3;
+  font-size: 100%;
+}
