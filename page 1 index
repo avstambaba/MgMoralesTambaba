@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>LGBTQIA+ History</title>
+  <link href="style.css" rel="stylesheet" type="text/css" >
+  <link rel="icon" href="images\icon.png" type="image/png">
+</head>
+
+<body>
+  <div id="top">
+  <div id="pic">
+    <a href="https://q1proj.althea-vizannev.repl.co" target="_blank">
+      <img src="images/element1.png" 
+        alt="LGBTQIA+ Element"
+        title = "LGBTQIA+ Element"
+        height = 200px
+        width = 200px />
+    </a>
+  </div>
+    
+  <div id="title">
+    <h1>How the LGBTQIA+ <br> Came To Be</br></h1>
+  </div>
+  </div>
+
+  <div id="bottom">
+  <div id="desc">
+    <p>
+      In a survey conducted by Pew Research Center, the Philippines was ranked #1 in the most LGBTQIA+ friendly nations in Asia. Filipinos have also developed their own slang called “gaylingo” which is combined with the Filipino language. In terms of politics and social standing, it can be said that members of the community are only tolerated and not accepted in the society as discrimination against them still remains, and the laws that allow more freedom for them (i.e. same sex marriage, etc.) are still not passed.
+    </p>
+  </div>
+
+  <div id="trivias">
+  <div id="trivia1">
+    <p> <span>
+      We celebrate pride month <br>during June!</br>
+    </span></p>
+  </div>
+
+  <div id="trivia2">
+    <p>
+      The pride flag is a rainbow <br> with more than seven colors! <br> There is also a flag for each <br> one of the sexualities!
+    </p>
+  </div> </div> </div> </div>
+</body>
+</html>
